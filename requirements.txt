@@ -1,0 +1,6 @@
+pandas 
+beautifulsoup4
+requests
+selenium
+PyPDF2
+pdfplumber
